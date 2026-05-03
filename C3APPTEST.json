@@ -1,7 +1,7 @@
 {
   "AdsController": {
     "gameSite": "https://tb-world.games.playgama.net/cm5bl98xl0028x80e65oyhqjw_o/",
-    "adNetwork": "admob",
+    "adNetwork": "applovin",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "applovinInterstitial": "133c030ef6fe656b",
     "applovinNative": "1d07344b0ed2d0d8",
@@ -12,7 +12,7 @@
     "inapp": false,
     "unityInterstitial": "Interstitial_Android",
     "unityRewarded": "Rewarded_Android",
-    "html": "yes",
+    "html": "no",
     "suspended": "no",
     "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
     "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
