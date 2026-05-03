@@ -1,7 +1,7 @@
 {
   "AdsController": {
     "gameSite": "https://tb-world.games.playgama.net/cm5bl98xl0028x80e65oyhqjw_o/",
-    "adNetwork": "applovin",
+    "adNetwork": "admob",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "applovinInterstitial": "2bec877c06517dad",
     "applovinNative": "4ef269136263522b",
